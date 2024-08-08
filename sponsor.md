@@ -24,3 +24,4 @@
 | ripm71534  | 10.88 |
 | CCyiziwudi  | 10.1 |
 | Ggoldfishzq86  | 3 |
+| _Magic_Theorem  | 20 |
