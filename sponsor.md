@@ -9,7 +9,7 @@
 | _awayLovesir  | 9.99 |
 | AdsBoloski  | 5 |
 | 阿莱娜  | 4.5 |
-| minnowo  | 40 |
+| minnowo  | 70 |
 | elaheishen  | 15 |
 | ACYL35516  | 10 |
 | Baiming511  | 0.3 |
