@@ -1,0 +1,25 @@
+## 排名仅按照顺序，无其他意义
+|  昵称   | 金额(￥)  |
+|  ----  | ----  |
+| ARCCs2  | 110 |
+| Xiaohetun2391  | 10 |
+| Foundaryxianyu  | 30 |
+| shengqin2  | 0.1 |
+| ZHONGYIFAN666  | 20 |
+| _awayLovesir  | 9.99 |
+| AdsBoloski  | 5 |
+| 阿莱娜  | 4.5 |
+| minnowo  | 40 |
+| elaheishen  | 15 |
+| ACYL35516  | 10 |
+| Baiming511  | 0.3 |
+| Suiercoyu  | 10 |
+| Green_Woods779  | 5 |
+| _ang2532  | 5 |
+| Threeleaf3333  | 5 |
+| YIZHIcat123  | 5.21 |
+| Aminus1145  | 30 |
+| cute_hetun  | 1 |
+| ZDX_1125  | 6.66 |
+| ripm71534  | 10.88 |
+| CCyiziwudi  | 10.1 |
